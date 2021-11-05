@@ -1,0 +1,1 @@
+# FastToastApp
